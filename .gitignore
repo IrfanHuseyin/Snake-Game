@@ -1,2 +1,5 @@
 # Ignore object files
 *.o
+
+# Ignore the binary executable
+snake
